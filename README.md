@@ -33,12 +33,13 @@ Aus den Messwerten der Quellsysteme berechnet **vedastat**  verschiedene statist
 VEDA ist so konzipiert, dass weitere Auswertungen ergänzt werden können.
 
 ### Zugang
-
 ***https://verkehrsdatenanalyse.ch*** 
 
 ### Kontakt
 mail@verkehrsdatenanalyse.ch
-verkehrsdatenanalyse.ch ist ein Service der Unseld Ingenieurbüro GmbH, Winterthur, https://unseld-ing.ch
+
+verkehrsdatenanalyse.ch ist ein Service der Unseld Ingenieurbüro GmbH, Winterthur
+https://unseld-ing.ch
 
 
 
