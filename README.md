@@ -16,8 +16,10 @@ Die Integration weiterer Schnittstellen wie bspw. DATEX II ist in Bearbeitung.
 
 ### Systemkomponenten
 VEDA besteht aus dem Statistik-Modul **vedastat** und dem Web-Frontend **vedaweb** und ist für den Betrieb auf einem LINUX-Server konzipiert.
-**vedastat** Datenimport, Archivierung, Statistikberechnung und Export (python, shell/bash, sqlite3).
-**vedaweb**  Webclient für Abfragen, Tabellen, Diagramme und Karten (HTML, CSS, PHP, JavaScript, MariaDB) .
+
+* **vedastat** Datenimport, Archivierung, Statistikberechnung und Export (python, shell/bash, sqlite3).
+* **vedaweb**  Webclient für Abfragen, Tabellen, Diagramme und Karten (HTML, CSS, PHP, JavaScript, MariaDB) .
+  
 **vedastat*** und **vedaweb** können auf separaten Servern eingerichtet werden.
 
 ### Darstellung der importierten Messwerte
