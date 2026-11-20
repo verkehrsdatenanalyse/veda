@@ -1,6 +1,6 @@
 # VEDA – Verkehrsdatenanalyse
 
-Die Applikation ***VEDA** dient der statistischen Auswertung von Verkehrszähldaten sowie deren Darstellung als Diagramm und Tabelle. Resultate können direkt im Browser betrachtet, als PNG-Grafik oder CSV-Tabelle heruntergeladen oder als PDF gedruckt werden.
+Die Applikation **VEDA** dient der statistischen Auswertung von Verkehrszähldaten sowie deren Darstellung als Diagramm und Tabelle. Resultate können direkt im Browser betrachtet, als PNG-Grafik oder CSV-Tabelle heruntergeladen oder als PDF gedruckt werden.
 Der Fokus von VEDA liegt in der Bereitstellung von Grundlagendaten für Zwecke der Verkehrsplanung und richtet sich an Fachpersonen in der Verwaltung und Ingenieurbüros.
 
 ## Datenquellen
@@ -18,7 +18,7 @@ Die Integration weiterer Schnittstellen wie bspw. DATEX II ist in Bearbeitung.
 VEDA besteht aus dem Statistik-Modul **vedastat** und dem Web-Frontend **vedaweb** und ist für den Betrieb auf einem LINUX-Server konzipiert.
 **vedastat** Datenimport, Archivierung, Statistikberechnung und Export (python, shell/bash, sqlite3).
 **vedaweb**  Webclient für Abfragen, Tabellen, Diagramme und Karten (HTML, CSS, PHP, JavaScript, MariaDB) .
-***vedastat*** und ***vedaweb*** können auf separaten Servern eingerichtet werden.
+**vedastat*** und **vedaweb** können auf separaten Servern eingerichtet werden.
 
 ### Darstellung der importierten Messwerte
 Die Messwerte aus den Quellsystemen können über den Webclient ***vedaweb*** dargestellt und für die Weiterbearbeitung exportiert werden.
